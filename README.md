@@ -8,6 +8,6 @@ Each project is focused on a different use case and learning goal — from build
 
 | Project | Model | From Scratch |
 |--------|--------|---------------|
-| [House Price Prediction](./1-linear-regression-house-prices) | Linear Regression | ✅ Yes |
+| [House Price Prediction](https://github.com/aarushitandon0/Regression-Projects/tree/main/1.%20House%20Price%20Predictor) | Linear Regression | ✅ Yes |
 | [Email Spam Detection](./2-logistic-regression-spam-detector) | Logistic Regression | ✅ Yes |
 | [Heart Disease Prediction](./3-logistic-regression-heart-disease) | Logistic Regression | ❌ scikit-learn | 
