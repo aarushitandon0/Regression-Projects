@@ -6,7 +6,6 @@ Build a simple yet powerful regression model to predict the **price of a house**
 
 - Gradient Descent (custom implementation)
 - Min-Max Feature Scaling
-- Manual train-test splitting
 - Custom visualizations (loss curve, prediction plot)
 
 This project was implemented **from scratch** using only NumPy and basic Python — no pre-built ML models.
